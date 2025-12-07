@@ -1,31 +1,93 @@
-<h1 align="center">Hi 👋, I'm Dushan Edirisinghe</h1>
-<h3 align="center">Mastering the Web of Connections 🌐⚡🖥️🔒📡 — Dive into the World of Computer Networks!</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Dushan+Edirisinghe;Mastering+the+Web+of+Connections+🌐;Routing+%7C+Security+%7C+Cloud+Systems" alt="Typing SVG" />
+</div>
 
-<h4 align="center"
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dushan-edirisinghe&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="watchers" />
+</div>
+
+<br/>
+
+<div align="center">
   
-  ![packman](https://github.com/user-attachments/assets/2539dea4-3be8-4965-9317-40a4eeb3bc33) </h4>
+  <a href="https://edirisinghe-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dushan-edirisinghe&label=Profile%20views&color=0e75b6&style=flat" alt="dushan-edirisinghe" /> </p>
+  <a href="https://lavenroy-nexus-site.vercel.app">
+    <img src="https://img.shields.io/badge/Company-Lavenroy_Nexus-8A2BE2?style=for-the-badge&logo=google-earth&logoColor=white" alt="Lavenroy Nexus" />
+  </a>
 
-- 🔭 I’m currently working on [go-imagevision](https://github.com/Dushan-Edirisinghe/go-imagevision)
+  <a href="mailto:dushan.personal01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-- 🌱 I’m currently learning **routing📍,security🔒,and cloud systems☁️🚀**
+</div>
 
-- 👯 I’m looking to collaborate on **networking🌐,protocols📡,and distributed systems🖧🚀!"**
+<br/>
 
-- 🤝 I’m looking for help with [Expense-Tracker-Android-App](https://github.com/Dushan-Edirisinghe/Expense-Tracker-Android-App)
+<div align="center">
+  
+  🔭 I’m currently working on **[go-imagevision](https://github.com/Dushan-Edirisinghe/go-imagevision)**
+  
+  🌱 Learning **Routing 📍, Security 🔒, and Cloud Systems ☁️**
+  
+  👯 Looking to collaborate on **Networking 🌐, Protocols 📡, and Distributed Systems 🖧**
+  
+  🤝 Need help with **[Expense-Tracker-Android-App](https://github.com/Dushan-Edirisinghe/Expense-Tracker-Android-App)**
+  
+  ⚡ **Fun fact:** Building empires by day ☀️, debugging packets by night 🌙📦.
+  
+</div>
 
-- 📫 How to reach me **dushan.personal01@gmail.com**
+<br/>
 
-- ⚡ Fun fact **-Fluent in TCP/IP🌐,packet debugger📦🔍,protocol dreamer😴💻**
+<div align="center">
+  <a href="https://lavenroy-nexus-site.vercel.app">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=About+Lavenroy+Nexus;Innovating+Digital+Solutions;Building+Modern+Architectures" alt="Lavenroy Nexus Typing" />
+  </a>
+  <p>
+    Founder & Lead Innovator at <b><a href="https://lavenroy-nexus-site.vercel.app">LAVENROY NEXUS</a></b>.
+    <br/><br/>
+    We are a software company dedicated to <i>innovating digital solutions</i> and building modern architectures for complex problems. 
+    By combining cutting-edge technology with strategic foresight, we transform visionary ideas into scalable, high-performance software that empowers businesses to thrive in a digital-first world.
+    <br/><br/>
+    <i>✨ "Perfection At its finest"</i>
+  </p>
+</div>
 
+<br/>
 
-<p align="left">
-</p>
+<h3 align="center">🛠️ Languages and Tools</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=android,figma,flutter,go,java,js,linux,mongodb,nodejs,py,react,unity&theme=dark" />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<br/>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/dushan_edirisinghe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://coff.ee/dushan_edirisinghe" /></a></p><br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dushan-edirisinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushan-edirisinghe&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="languages graph" />
+  <br/><br/>
+  
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="500" />
+  </a>
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github.com/dushan-edirisinghe/dushan-edirisinghe/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/dushan_edirisinghe">
+    <img src="https://img.shields.io/badge/Support-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</div>
+<br/>
