@@ -68,18 +68,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dushan-edirisinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushan-edirisinghe&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="languages graph" />
-  <br/><br/>
-  
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="500" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github.com/dushan-edirisinghe/dushan-edirisinghe/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
