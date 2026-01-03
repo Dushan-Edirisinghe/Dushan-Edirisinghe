@@ -10,11 +10,11 @@
 
 <div align="center">
   
-  <a href="https://edirisinghe-portfolio.vercel.app">
+  <a href="https://www.dushan-edirisinghe.dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 
-  <a href="https://lavenroy-nexus-site.vercel.app">
+  <a href="https://lavenroy-nexus.tech">
     <img src="https://img.shields.io/badge/Company-Lavenroy_Nexus-8A2BE2?style=for-the-badge&logo=google-earth&logoColor=white" alt="Lavenroy Nexus" />
   </a>
 
@@ -43,11 +43,11 @@
 <br/>
 
 <div align="center">
-  <a href="https://lavenroy-nexus-site.vercel.app">
+  <a href="https://lavenroy-nexus.tech">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=About+Lavenroy+Nexus;Innovating+Digital+Solutions;Building+Modern+Architectures" alt="Lavenroy Nexus Typing" />
   </a>
   <p>
-    Founder & Lead Innovator at <b><a href="https://lavenroy-nexus-site.vercel.app">LAVENROY NEXUS</a></b>.
+    Founder & Lead Innovator at <b><a href="https://lavenroy-nexus.tech/">LAVENROY NEXUS</a></b>.
     <br/><br/>
     We are a software company dedicated to <i>innovating digital solutions</i> and building modern architectures for complex problems. 
     By combining cutting-edge technology with strategic foresight, we transform visionary ideas into scalable, high-performance software that empowers businesses to thrive in a digital-first world.
